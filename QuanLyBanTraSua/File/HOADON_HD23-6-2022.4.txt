@@ -1,0 +1,15 @@
+﻿				HÓA ĐƠN BÁN HÀNG
+
+	Mã hóa đơn: HD23/6/2022.4
+	Ngày thu: 6/23/2022 1:15:39 PM
+
+	Tên đồ uống			Số lượng	Đơn giá		Thành tiền
+	________________________________________________________________
+	Trà Sữa socola			1	25000			25000
+
+
+	Tổng cộng: 25000 đ
+	Giảm giá: 
+	Tổng thanh toán: 25000 đ
+
+			 XIN CẢM ƠN - HẸN GẶP LẠI

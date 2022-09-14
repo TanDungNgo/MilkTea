@@ -1,0 +1,17 @@
+﻿				HÓA ĐƠN BÁN HÀNG
+
+	Mã hóa đơn: HD23/6/2022.5
+	Ngày thu: 6/23/2022 1:25:11 PM
+
+	Tên đồ uống			Số lượng	Đơn giá		Thành tiền
+	________________________________________________________________
+	Thái Xanh Đặc Biệt			1	25000			25000
+
+	Trà Sữa Khoai Môn			1	30000			30000
+
+
+	Tổng cộng: 55000 đ
+	Giảm giá: None
+	Tổng thanh toán: 55000 đ
+
+			 XIN CẢM ƠN - HẸN GẶP LẠI

@@ -1,0 +1,19 @@
+﻿				HÓA ĐƠN BÁN HÀNG
+
+	Mã hóa đơn: HD23/6/2022.3
+	Ngày thu: 6/23/2022 1:14:32 PM
+
+	Tên đồ uống			Số lượng	Đơn giá		Thành tiền
+	________________________________________________________________
+	Trà Sữa socola			2	25000			50000
+
+	Thái Xanh Đặc Biệt			1	25000			25000
+
+	Nước Cam			1	35000			35000
+
+
+	Tổng cộng: 110000 đ
+	Giảm giá: None
+	Tổng thanh toán: 110000 đ
+
+			 XIN CẢM ƠN - HẸN GẶP LẠI

@@ -1,0 +1,17 @@
+﻿				HÓA ĐƠN BÁN HÀNG
+
+	Mã hóa đơn: HD22/6/2022.2
+	Ngày thu: 6/22/2022 5:19:06 PM
+
+	Tên đồ uống			Số lượng	Đơn giá		Thành tiền
+	________________________________________________________________
+	Sữa Chua Trái Cây			1	40000			40000
+
+	Matcha			1	30000			30000
+
+
+	Tổng cộng: 70000 đ
+	Giảm giá: None
+	Tổng thanh toán: 70000 đ
+
+			 XIN CẢM ƠN - HẸN GẶP LẠI

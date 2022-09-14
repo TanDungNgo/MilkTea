@@ -1,0 +1,17 @@
+﻿				HÓA ĐƠN BÁN HÀNG
+
+	Mã hóa đơn: HD22/6/2022.3
+	Ngày thu: 6/22/2022 5:24:16 PM
+
+	Tên đồ uống			Số lượng	Đơn giá		Thành tiền
+	________________________________________________________________
+	Trà Sữa Truyền Thống			1	25000			25000
+
+	Trà Đào			1	35000			35000
+
+
+	Tổng cộng: 60000 đ
+	Giảm giá: None
+	Tổng thanh toán: 60000 đ
+
+			 XIN CẢM ƠN - HẸN GẶP LẠI
